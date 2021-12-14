@@ -35,4 +35,4 @@ jobs:
       uses: JohnMeyerhoff/JunitAnnotations@v1.2.0
       with:
         source_dir: "/src/main"
-        junit_dir: "/src/test
+        junit_dir: "/src/test"
